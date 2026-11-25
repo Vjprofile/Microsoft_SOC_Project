@@ -6,7 +6,7 @@ An Investigation of Microsoft Defender XDR and Microsoft Sentinel for Enterprise
 
 The diagram below provides an overview of the controlled lab environment, including the test identities, Windows endpoint, attacker infrastructure and Microsoft security monitoring components.
 
-![Lab architecture and investigation scope](assets/lab-architecture.png)
+![Lab architecture and investigation scope](lab-architecture.png)
 
 *Figure 1. Lab architecture and investigation scope.*
 
@@ -41,4 +41,4 @@ The exercise covered phishing simulations, identity-based access, internal spear
 
 The complete project report includes the lab architecture, implementation steps, screenshots, attack simulation phases, SOC investigation, incident timeline, findings, MITRE ATT&CK mapping and recommendations.
 
-**[View the Complete Project Report (PDF)](docs/Enterprise_Security_Assessment_Report.pdf)**
+[View the Complete Project Report (PDF)](./Enterprise_Security_Assessment_Report.pdf)
