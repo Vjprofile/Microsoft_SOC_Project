@@ -28,14 +28,19 @@ The exercise covered phishing simulations, identity-based access, internal spear
 
 ## Tools & Technologies Used
 
-- Microsoft Defender XDR
-- Microsoft Defender for Endpoint
-- Microsoft Entra ID
-- Microsoft Defender Attack Simulation Training
-- Microsoft Sentinel and Kusto Query Language (KQL)
-- Atomic Red Team and PowerShell
-- Microsoft 365 E5 trial environment
-- Azure Virtual Machines and Windows Server 2022
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Defender_XDR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Defender_for_Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Attack_Simulation_Training-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atomic_Red_Team-333333?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_365_E5-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Virtual_Machines-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server_2022-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 
 ## Project Documentation
 
